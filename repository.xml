@@ -2,14 +2,14 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name>bugwarrior-overlay</name>
+    <name>timew-overlay</name>
     <description lang="en">A Portage overlay for TimeWarrior</description>
     <homepage>https://git.devnulllabs.io/overlays/timew.git</homepage>
     <owner>
         <email>kballou@devnulllabs.io</email>
         <name>Kenny Ballou</name>
     </owner>
-    <source type="git">https://git.devnulllabs.io/overlays/timew.git</source>
-    <feed>https://git.devnulllabs.io/overlays/timew.git/log/</feed>
+    <source type="git">https://github.com/kennyballou/timew-overlay.git</source>
+    <feed>https://github.com/kennyballou/timew-overlay.git/log/</feed>
   </repo>
 </repositories>
